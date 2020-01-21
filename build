@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo "building docker image"
+docker build -t emes/debian-uwsgi-mssql .
