@@ -15,5 +15,5 @@ uWSGI==2.0.18
 Werkzeug==0.16.0
 pyodbc==4.0.27
 suds==0.4
-lxml==4.2.5
+lxml==4.6.5
 
